@@ -22,7 +22,7 @@ Dimensions : 179.41mm x 144.46mm x 3mm
 
 ## Laser cutting
 
-The floppy disk drive tray CAD design has 3 layers that must be processed in this order:
+The floppy disk drive tray CAD design requires a 3mm thick acrylic sheet and has 3 layers that must be processed in this order:
 
 |    Layer Name   | Color | Operation | Required  |             Comment            | Processing Order |
 |:---------------:|-------|:---------:|-----------|:------------------------------:|:----------------:|
@@ -32,7 +32,12 @@ The floppy disk drive tray CAD design has 3 layers that must be processed in thi
 
 ## Mechanical parts
 
-XXX
+| **item**                     | **count** | **style**         | **material**    | **color**  | **length (mm)** | **link**                                                            |
+| ---------------------------- | --------- | ----------------- | --------------- | ---------- | --------------- | ------------------------------------------------------------------- |
+| M3 nut                       | 2         | hex               | nylon           | black      | 2               | [aliexpress](https://www.aliexpress.com/item/32859166254.html)      |
+| M3 screw 14mm countersunk    | 2         | countersunk, torx | stainless steel | metal      | 14              | [aliexpress](https://www.aliexpress.com/item/1005002369233576.html) |
+| M3 screw 8mm flat            | 4         | flat, torx        | stainless steel | metal      | 8               | [aliexpress](https://www.aliexpress.com/item/1005003098981878.html) |
+| M3 washer countersunk        | 2         | countersunk       | aluminium       | light blue | 2               | [aliexpress](https://www.aliexpress.com/item/32968161596.html)      |
 
 ## Step by step instructions
 
@@ -41,13 +46,16 @@ XXX
 
   * 1x floppy disk drive
 
-  * 1x acrylic floppy tray
-  * 2x acrylic spacers
-  * 1x acrylic wing
+  * 1x acrylic floppy tray (laser cut part)
+  * 2x acrylic spacers (laser cut part)
+  * 1x acrylic wing (laser cut part)
   * 4x M3 8mm flat torx screws
   * 2x M3 14mm countersunk torx screws
   * 2x M3 countersunk washers
   * 2x M3 nuts
+
+The floppy drive bottom is attached to the floppy tray via four screws.  
+Also part of the floppy tray is an elevated wing used to attach the floppy tray to the computer case without colliding with the F4/FMPAC v2 hat. The wing serves aswell as a stop for the keyboard in case excessive force is applied to the keyboard panel top/center.
 
 ![Prepare floppy tray](images/floppy-010-prepare-floppy-and-floppy-tray-EN.png)
 
