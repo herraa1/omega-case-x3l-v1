@@ -4,9 +4,9 @@ This document describes how to assemble the floppy disk drive tray for the Omega
 
 ## Bill of Materials (BoM)
 
-## Acrylic parts
+### Acrylic parts
 
-### [Floppy Disk Drive (FDD) tray (3mm thickness)](omega-case-x3l-v1-floppy-tray-3mm%2Bready-to-lasercut-final.dxf)
+#### [Floppy Disk Drive (FDD) tray (3mm thickness)](omega-case-x3l-v1-floppy-tray-3mm%2Bready-to-lasercut-final.dxf)
 
 Tray for the floppy disk drive.  
 This tray can be used to attach the floppy disk drive to the computer case.  
@@ -20,7 +20,7 @@ Dimensions : 179.41mm x 144.46mm x 3mm
 
 [<img src="images/cad-floppy-tray-3mm.png" width="600"/>](images/cad-floppy-tray-3mm.png)
 
-## Laser cutting
+### Laser cutting
 
 The floppy disk drive tray CAD design requires a 3mm thick acrylic sheet and has 3 layers that must be processed in this order:
 
@@ -30,7 +30,7 @@ The floppy disk drive tray CAD design requires a 3mm thick acrylic sheet and has
 | floppy-tray-int | red   |    cut    | mandatory |          Internal cuts         |         2        |
 | floppy-tray-ext | green |    cut    | mandatory |          External cuts         |         3        |
 
-## Mechanical parts
+### Mechanical parts
 
 | **item**                     | **count** | **style**         | **material**    | **color**  | **length (mm)** | **link**                                                            |
 | ---------------------------- | --------- | ----------------- | --------------- | ---------- | --------------- | ------------------------------------------------------------------- |
@@ -40,7 +40,6 @@ The floppy disk drive tray CAD design requires a 3mm thick acrylic sheet and has
 | M3 washer countersunk        | 2         | countersunk       | aluminium       | light blue | 2               | [aliexpress](https://www.aliexpress.com/item/32968161596.html)      |
 
 ## Step by step instructions
-
 
 1. Prepare the required material:
 

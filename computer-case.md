@@ -4,9 +4,9 @@ This document describes how to assemble a X3L case for the Omega Home Computer.
 
 ## Bill of Materials (BoM)
 
-## Acrylic parts
+### Acrylic parts
 
-### [Computer case (4mm thickness)](omega-case-x3l-v1-case-with-rear-slot-4mm+ready-to-lasercut-msx-font-normal-final.dxf)
+#### [Computer case (4mm thickness)](omega-case-x3l-v1-case-with-rear-slot-4mm+ready-to-lasercut-msx-font-normal-final.dxf)
 
 The X3L Computer case for the Omega Home Computer is made up of seven panels:  
 * Rear panel (where all the rear connectors are placed)
@@ -26,7 +26,7 @@ The X3L Computer case for the Omega Home Computer is made up of seven panels:
 
 [<img src="images/cad-omega-case-x3l-v1-4mm.png" width="1024"/>](images/cad-omega-case-x3l-v1-4mm.png)
 
-## Laser cutting
+### Laser cutting
 
 The Omega Computer X3L case CAD design requires a 4mm thick acrylic sheet and has 20 layers that must be processed in this order:
 
@@ -41,7 +41,7 @@ The Omega Computer X3L case CAD design requires a 4mm thick acrylic sheet and ha
 | *-int (7 layers)         | red   |    cut    | mandatory   | internal cuts                    |         7        |
 | *-ext (7 layers)         | green |    cut    | mandatory   | external cuts                    |         8        |
 
-## Mechanical parts
+### Mechanical parts
 
 TBD
 
@@ -49,7 +49,7 @@ TBD
 
 ### Keyboard
 
-1. Prepare to attach to the keyboard board he six spacers/posts required for the keyboard panel
+1. Prepare to attach to the keyboard board the six spacers/posts required for the keyboard panel
 
 The spacers sit on the keyboard board top side and are fastened via screws on the bottom side. The keyboard panel then sits on top of the spacers.  
 Prepare the following parts and place the keyboard board upside down:
@@ -100,7 +100,7 @@ The 45mm posts on the high half and the 25mm posts on the bottom half provide a 
 The reset switch is a panel mount momentary push switch that attaches via a dupond two pin female connector to the RST header on the computer motherboard.  
 The cable length for the reset switch should be long enough (about 35cm) to allow the keyboard panel to be placed aside the computer without having to disconnect it.
 
-Prepare the following parts ():
+Prepare the following parts:
   * 1x panel mount reset switch with cable and dupond female connector
 
 ![Prepare reset switch](images/keyboard-080-prepare-reset-switch-cabling-EN.png)
