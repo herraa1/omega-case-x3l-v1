@@ -18,7 +18,7 @@ This is a new acrylic case design[^1] for the Omega Home Computer based on [Caps
 * the Omega and MSX logos are also incorporated
 * (need to be tested) the floppy disk tray has been re-designed trying to remain compatible with the F4/FMPAC v2 hat
 * (need to be tested) enough clearance has been kept trying to remain compatible with the O4MEGA v2 hat
-* a companion tray has been designed to ease the placement of the dc-adapter 1-5-16b (which lacks screw holes on the PCB)
+* a companion tray has been designed to ease the placement of the dc-adapter 1.5-1.6b (which lacks screw holes on the PCB)
 
 ## Dimensions
 
