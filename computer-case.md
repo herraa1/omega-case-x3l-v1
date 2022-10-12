@@ -230,7 +230,7 @@ You will need the following parts:
 
 ![](images/main-case-170-secure-floppy-tray-rear-post-EN.png)
 
-18. Attach the floppy tray wing to the underlying post using a female-female post
+18. Attach the floppy tray wing to the underlying post using a male-female post
 
 You will need the following parts:
   * 1x M3 20mm male-female nylon post
