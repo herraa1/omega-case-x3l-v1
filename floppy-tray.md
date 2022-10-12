@@ -1,4 +1,4 @@
-# Build Instructions
+# Build Instructions for the floppy tray
 
 This document describes how to assemble the floppy disk drive tray for the Omega Home Computer X3L case.
 
@@ -6,12 +6,12 @@ This document describes how to assemble the floppy disk drive tray for the Omega
 
 ### Acrylic parts
 
-#### [Floppy Disk Drive (FDD) tray (3mm thickness)](omega-case-x3l-v1-floppy-tray-3mm%2Bready-to-lasercut-final.dxf)
+#### Floppy Disk Drive (FDD) tray (3mm thickness)
 
 Tray for the floppy disk drive.  
 This tray can be used to attach the floppy disk drive to the computer case.  
 
-The tray is made up of the following elements:
+The [floppy disk tray](omega-case-x3l-v1-floppy-tray-3mm%2Bready-to-lasercut-final.dxf) is made up of the following elements:
 * acrylic floppy tray
 * acrylic spacers (12x prepared, but only 2x needed)
 * acrylic wing
