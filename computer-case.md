@@ -225,7 +225,7 @@ You will need the following parts:
 17. Attach the rear arm of the floppy tray to the matching post using a screw
 
 You will need the following parts:
-  * 1x M3 16mm countersunk torx screw
+  * 1x M3 8mm countersunk torx screw
   * 1x M3 countersunk washer
 
 ![](images/main-case-170-secure-floppy-tray-rear-post-EN.png)
