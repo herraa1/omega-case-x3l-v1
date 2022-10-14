@@ -2,6 +2,8 @@
 
 Acrylic case of size XXXL, from now on X3L, for the [Omega Home Computer](https://github.com/skiselev/omega).
 
+[<img src="images/main-case-530-final-EN.png" width="500"/>](images/main-case-530-final-EN.png)
+
 ## Introduction
 
 This is a new acrylic case design[^1] for the Omega Home Computer based on [Capsule5000 XL version](https://github.com/msx-solis/OMEGA-long-case/tree/main/Capsule_XL_current_version), specifically on the Omega-Eco2_SME_51mm_simple_22_09_2021_slot_trasero.dxf design, adding the following extra features:
