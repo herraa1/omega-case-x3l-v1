@@ -294,13 +294,13 @@ You will need the following parts:
 
 You will need the following parts:
   * 1x 5.5mm x 2.1mm DC power jack socket female panel mount barrel connector 11mm diameter
-  * 1x XT60 female connector
+  * 1x XT30 female connector
   * about 10cm of 20 AWG wire red
   * about 10cm of 20 AWG wire black
   * heat shrink tube red
   * heat shrink tube black
 
-Instead of the XT60 connector you can use any other properly sized and rated connector to decouple the panel mount installation from the dc-adapter.  
+Instead of the XT30 connector you can use any other properly sized and rated connector to decouple the panel mount installation from the dc-adapter.  
 The size of the connector used must allow the insertion of the washer and nut for the female panel mount barrel connector.  
 Another option is to not decouple the installation and to attach directly the female panel mount barrel connector to the dc-adapter, but that makes it difficult to replace the dc-adapter in case of failure or upgrade.
 
@@ -386,17 +386,17 @@ There are 3 spade terminals on the power switch:
 
 37. Build the cable between the panel mount connector and the dc-adapter
 
-In this case, the cable uses a XT60 male connector to connect to the XT60 female connector on the panel mount barrel connector cable, and a male barrel connector to connect to the dc-adapter female barrel connector in inverse position.  
+In this case, the cable uses a XT30 male connector to connect to the XT30 female connector on the panel mount barrel connector cable, and a male barrel connector to connect to the dc-adapter female barrel connector in inverse position.  
 
 You will need the following parts:
   * 1x 28cm male jack cable adapter plug 5.5 * 2.1mm 18 AWG (pre-built cable with one end loose)
-  * 1x XT60 male connector
+  * 1x XT30 male connector
 
 ![](images/main-case-350-build-cable-between-DC-5V-and-dc-adapter-EN.png)
 
 38. Install the cable between the panel mount barrel connector cable and the dc-adapter
 
-Connect the cable XT60 male connector to the XT60 female connector on the panel mount barrel connector cable, and the male barrel connector to the dc-adapter female barrel connector.
+Connect the cable XT30 male connector to the XT30 female connector on the panel mount barrel connector cable, and the male barrel connector to the dc-adapter female barrel connector.
 
 ![](images/main-case-400-install-power-cable-between-DC-5V-and-dc-adapter-EN.png)
 
