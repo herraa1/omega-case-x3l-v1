@@ -26,7 +26,10 @@ The dc-adapter tray CAD design has 2 layers that must be processed in this order
 
 ## Mechanical parts
 
-TBD
+| **item**                     | **count** | **style**         | **material**    | **color**  | **length (mm)** | **link**                                                            |
+| ---------------------------- | --------- | ----------------- | --------------- | ---------- | --------------- | ------------------------------------------------------------------- |
+| Velcro self fastening tie    | 1         | T-type            | nylon fabric    | red        | 150             | [aliexpress](https://www.aliexpress.com/item/1005002179614650.html) |
+
 
 ## Step by step instructions
 
