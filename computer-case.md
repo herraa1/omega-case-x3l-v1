@@ -250,7 +250,6 @@ You will need the following parts:
   * 1x XH2.54 4p male right angle connector (rout+lout)
   * 1x XH2.54 2p male right angle connector (power)
   * 1x XH2.54 3p male right angle connector (L+R input)
-  * 9x XH2.54 female pins
 
 ![](images/main-case-190-right-panel-install-audio-amplifier-board-EN.png)
 
