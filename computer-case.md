@@ -55,6 +55,7 @@ I used the following tools to build the Omega computer case:
 * JST1.25 crimping tool (IWS-2820M)
 * XH2.54 crimping tool (SN-01BM)
 * Dupont crimping tool (SN-28B)
+* Ferrule crimping tool (HSC8 6-4)
 * portable drilling machine with countersink 20.5mm drill bit for acrylic
 
 ### Mechanical parts
