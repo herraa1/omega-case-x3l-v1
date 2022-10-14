@@ -59,7 +59,72 @@ I used the following tools to build the Omega computer case:
 
 ### Mechanical parts
 
-TBD
+| **item**                                                                    | **count** | **style**         | **material**    | **color**        | **length (mm)** | **link**                                              |
+|-----------------------------------------------------------------------------|-----------|-------------------|-----------------|------------------|-----------------|-------------------------------------------------------|
+| 12mm mini push button switch, momentary, 2 pin                              | 1         | momentary         | metal           | red              | 12              | [aliexpress](https://www.aliexpress.com/item/32992880809.html)      |
+| 18AWG silicone wire black                                                   | 1         | flexible          | silicone,copper | black            | 300             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 18AWG silicone wire red                                                     | 2         | flexible          | silicone,copper | red              | 300             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 20AWG silicone wire black                                                   | 1         | flexible          | silicone,copper | black            | 100             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 20AWG silicone wire red                                                     | 1         | flexible          | silicone,copper | red              | 100             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 22AWG silicone wire black                                                   | 3         | flexible          | silicone,copper | black            | 400             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 22AWG silicone wire blue                                                    | 3         | flexible          | silicone,copper | blue             | 400             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 22AWG silicone wire red                                                     | 3         | flexible          | silicone,copper | red              | 400             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 22AWG silicone wire yellow                                                  | 1         | flexible          | silicone,copper | yellow           | 400             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 24AWG silicone black wire                                                   | 1         | flexible          | silicone,copper | black            | 180             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 24AWG silicone blue wire                                                    | 1         | flexible          | silicone,copper | blue             | 350             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 24AWG silicone green wire                                                   | 1         | flexible          | silicone,copper | green            | 250             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 24AWG silicone red wire                                                     | 1         | flexible          | silicone,copper | red              | 180             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 24AWG silicone white wire                                                   | 1         | flexible          | silicone,copper | white            | 600             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 26AWG silicone wire black                                                   | 1         | flexible          | silicone,copper | black            | 400             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 26AWG silicone wire red                                                     | 1         | flexible          | silicone,copper | red              | 450             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 28AWG silicone wire black                                                   | 1         | flexible          | silicone,copper | black            | 250             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 28AWG silicone wire black                                                   | 1         | flexible          | silicone,copper | black            | 120             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 28AWG silicone wire red                                                     | 1         | flexible          | silicone,copper | red              | 370             | [aliexpress](https://www.aliexpress.com/item/4001048052736.html)    |
+| 28cm Male jack cable adapter plug 5.5 * 2.1mm 18 AWG                        | 1         | cable             | plastic,copper  | red,black        | 280             | [aliexpress](https://www.aliexpress.com/item/4000353876165.html)    |
+| 4-pin floppy power cable 30cm                                               | 1         | 4-pin             | plastic,copper  | red,black,yellow | 300             | [aliexpress](https://www.aliexpress.com/item/1005002496348255.html) |
+| 5.5mm x 2.1mm DC power jack socket female panel mount barrel connector 11mm | 1         | 5.5x2.1           | metal           | metal            | 16              | [aliexpress](https://www.aliexpress.com/item/33000366972.html)      |
+| Blu Tack reusable adhesive putty                                            | 1         | adhesive          | putty           | blue             | 0               | [aliexpress](https://www.aliexpress.com/item/1005004208353049.html) |
+| Dupont female pin                                                           | 6         | female            | copper          | metal            | 12              | [aliexpress](https://www.aliexpress.com/item/1005001489545874.html) |
+| Dupont female sleeve 2-pin                                                  | 3         | sleeve            | plastic         | black            | 14              | [aliexpress](https://www.aliexpress.com/item/1005001489545874.html) |
+| E0508 bootlace ferrules 0.5mm2 white                                        | 3         | bootlace          | plastic,copper  | white            | 14              | [aliexpress](https://www.aliexpress.com/item/4000580009797.html)    |
+| Heat shrink tube black                                                      | 1         | tube              | plastic         | black            | 80              | [aliexpress](https://www.aliexpress.com/item/1005004519062414.html) |
+| Heat shrink tube blue                                                       | 1         | tube              | plastic         | blue             | 20              | [aliexpress](https://www.aliexpress.com/item/1005004519062414.html) |
+| Heat shrink tube green                                                      | 1         | tube              | plastic         | blue             | 20              | [aliexpress](https://www.aliexpress.com/item/1005004519062414.html) |
+| Heat shrink tube red                                                        | 1         | tube              | plastic         | red              | 70              | [aliexpress](https://www.aliexpress.com/item/1005004519062414.html) |
+| JST 1.25 Male 2-pin plug with wire 15cm 28awg                               | 2         | male,cable        | plastic,copper  | red,black        | 150             | [aliexpress](https://www.aliexpress.com/item/4000777530145.html)    |
+| JST1.25 2-pin male plug                                                     | 2         | male              | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/1005003998299082.html) |
+| JST1.25 male pins                                                           | 4         | male              | copper          | metal            | 0               | [aliexpress](https://www.aliexpress.com/item/1005003998299082.html) |
+| KF2510 8-pin female connector                                               | 1         | 8p,female         | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/4000229636156.html)    |
+| KF2510 female pins                                                          | 8         | female            | copper          | metal            | 0               | [aliexpress](https://www.aliexpress.com/item/4000229636156.html)    |
+| M3 4-40 UNC 5/16 inch ~8mm                                                  | 8         | pan head, philips | stainless steel | metal            | 7.9             | [aliexpress](https://www.aliexpress.com/item/1005003127103343.html) |
+| M3 4mm spacers                                                              | 11        | round             | nylon           | white            | 4               | [aliexpress](https://www.aliexpress.com/item/33031794972.html)      |
+| M3 countersunk washer                                                       | 34        | countersunk       | aluminium       | light blue       | 2               | [aliexpress](https://www.aliexpress.com/item/32968161596.html)      |
+| M3 female-female post 10mm                                                  | 6         | round             | aluminium       | light blue       | 10              | [aliexpress](https://www.aliexpress.com/item/4000040664908.html)    |
+| M3 female-female post 16mm                                                  | 2         | hex               | nylon           | black            | 16              | [aliexpress](https://www.aliexpress.com/item/1005004311987482.html) |
+| M3 female-female post 22mm                                                  | 1         | hex               | nylon           | black            | 22              | [aliexpress](https://www.aliexpress.com/item/1005004311987482.html) |
+| M3 female-female post 25mm                                                  | 4         | round             | aluminium       | light blue       | 25              | [aliexpress](https://www.aliexpress.com/item/4000040664908.html)    |
+| M3 female-female post 45mm                                                  | 5         | round             | aluminium       | light blue       | 45              | [aliexpress](https://www.aliexpress.com/item/4000040664908.html)    |
+| M3 female-female post 50mm                                                  | 3         | round             | aluminium       | light blue       | 50              | [aliexpress](https://www.aliexpress.com/item/4000040664908.html)    |
+| M3 female-female post 6mm                                                   | 5         | hex               | nylon           | black            | 6               | [aliexpress](https://www.aliexpress.com/item/1005004311987482.html) |
+| M3 male-female post 20mm+6mm                                                | 1         | hex               | nylon           | black            | 20              | [aliexpress](https://www.aliexpress.com/item/32859166254.html)      |
+| M3 screw 14mm countersunk                                                   | 4         | countersunk, torx | stainless steel | metal            | 14              | [aliexpress](https://www.aliexpress.com/item/1005002369233576.html) |
+| M3 screw 16mm countersunk                                                   | 11        | countersunk, torx | stainless steel | metal            | 16              | [aliexpress](https://www.aliexpress.com/item/1005002369233576.html) |
+| M3 screw 8mm countersunk                                                    | 19        | countersunk, torx | stainless steel | metal            | 8               | [aliexpress](https://www.aliexpress.com/item/1005002369233576.html) |
+| M3 screw 8mm flat                                                           | 6         | flat, torx        | stainless steel | metal            | 8               | [aliexpress](https://www.aliexpress.com/item/1005003098981878.html) |
+| M3 silicone washers                                                         | 4         | round             | silicone        | white            | 2               | [aliexpress](https://www.aliexpress.com/item/1005002951669722.html) |
+| Machined metal aluminium potentiometer volume knob 20x15mm                  | 1         | round             | aluminium       | light blue       | 20              | [aliexpress](https://www.aliexpress.com/item/32749281108.html)      |
+| Mini PAM8403 DC 5V power audio amplifier board                              | 1         | pcb               | n/a             | green            | 29.5            | [aliexpress](https://www.aliexpress.com/item/1005002116511821.html) |
+| Miniature toggle switch red MTS-102 on-on SPST 3-pin                        | 1         | mini              | metal           | red              | 0               | [aliexpress](https://www.aliexpress.com/item/33032848662.html)      |
+| Rocker switch KCD1-101 ON-OFF 3-pin SPDT                                    | 1         | 3-pin SPDT        | plastic         | black            | 23.2            | [aliexpress](https://www.aliexpress.com/item/4000054591177.html)    |
+| XH2.54 2-pin female straight connector                                      | 2         | female-straight   | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XH2.54 2-pin male right angle connector                                     | 1         | right-angle       | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XH2.54 3-pin female straight connector                                      | 1         | female-straight   | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XH2.54 3-pin male right angle connector                                     | 1         | right-angle       | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XH2.54 4-pin female straight connector                                      | 1         | female-straight   | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XH2.54 4-pin male right angle connector                                     | 1         | right-angle       | plastic         | white            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XH2.54 female pins                                                          | 11        | female            | copper          | metal            | 0               | [aliexpress](https://www.aliexpress.com/item/32871933017.html)      |
+| XT30 female connector                                                       | 1         | female            | plastic         | yellow           | 20.2            | [aliexpress](https://www.aliexpress.com/item/1005003284644920.html) |
+| XT30 male connector                                                         | 1         | male              | plastic         | yellow           | 20.2            | [aliexpress](https://www.aliexpress.com/item/1005003284644920.html) |
 
 ## Step by step instructions
 
@@ -290,7 +355,7 @@ You will need the following parts:
 
 ![](images/main-case-230-front-panel-attach-joystick-ports-EN.png)
 
-24. Build a DC 5V panel mount barrel connector with cable (if using the dc-adapter in a panel mount configuration)
+24. Build a DC 5V panel mount barrel connector with cable (if using the dc-adapter in a "panel-mount barrel connector" configuration)
 
 You will need the following parts:
   * 1x 5.5mm x 2.1mm DC power jack socket female panel mount barrel connector 11mm diameter
@@ -300,7 +365,7 @@ You will need the following parts:
   * heat shrink tube red
   * heat shrink tube black
 
-Instead of the XT30 connector you can use any other properly sized and rated connector to decouple the panel mount installation from the dc-adapter.  
+Instead of the XT30 connector you can use any other properly sized and rated connector to decouple the "panel-mount barrel connector" installation from the dc-adapter.  
 The size of the connector used must allow the insertion of the washer and nut for the female panel mount barrel connector.  
 Another option is to not decouple the installation and to attach directly the female panel mount barrel connector to the dc-adapter, but that makes it difficult to replace the dc-adapter in case of failure or upgrade.
 
@@ -333,9 +398,46 @@ You will need the following parts:
 
 29. Prepare the power switch and dc-adapter
 
-Steps 29 to 39 describe how to install the dc-adapter for a panel mount barrel connector configuration.  
+Steps 29 to 39 describe how to install the dc-adapter for a "panel-mount barrel connector" configuration.  
 
 Please see the [MSXmakers! dc-adapter page](https://msxmakers.design.blog/proyectos/omega-home-computer/mini-fuente-dc-dc/) for further information about the dc-adapter.
+
+You will need the following parts:
+  * dc-adapter 1.5-1.6b populated for your configuration
+    * For the "inverted-power-barrel" configuration:
+      * (1x DC Power Jack, 2.1mm on J1 bottom side)
+      * (1x 8p 2.54 female header on J10 bottom side near the amp meter)
+      * 3x 6.3mm spade terminals
+      * 1x 20cm of 18 AWG silicone wire black
+      * 2x 20cm of 18 AWG silicone wire red
+      * 3x E0508 bootlace ferrules 0.5mm2
+    * For the "panel-mount barrel connector" configuration
+      * 1x KF2510 8-pin female connector
+      * 3x 40cm of 22 AWG silicone wire black
+      * 3x 40cm of 22 AWG silicone wire red
+      * 1x 40cm of 22 AWG silicone wire yellow
+      * 1x 40cm of 22 AWG silicone wire blue
+      * 3x 6.3mm spade terminals
+      * 1x 30cm of 18 AWG silicone wire black
+      * 2x 30cm of 18 AWG silicone wire red
+      * 3x E0508 bootlace ferrules 0.5mm2
+    * For the mixed "inverted-power-barrel" and ""panel-mount barrel connector" configuration:
+      * (1x DC Power Jack, 2.1mm on J1 bottom side)
+      * (1x 8p 2.54 female header on J10 bottom side near the amp meter)
+      * 1x KF2510 8-pin female connector
+      * 3x 40cm of 22 AWG silicone wire black
+      * 3x 40cm of 22 AWG silicone wire red
+      * 1x 40cm of 22 AWG silicone wire yellow
+      * 1x 40cm of 22 AWG silicone wire blue
+      * 3x 6.3mm spade terminals
+      * 1x 30cm of 18 AWG silicone wire black
+      * 2x 30cm of 18 AWG silicone wire red
+      * 3x E0508 bootlace ferrules 0.5mm2
+
+The mixed "inverted-power-barrel" and ""panel-mount barrel connector" configuration supports any of those configurations.  
+When enabling the "panel-mount barrel connector" configuration of the dc-adapter, solder the 8 power cables (on the top side) to the J10 connector which is closer to the XH2.54 power connectors.  
+
+This article describes for now only the "panel-mount barrel connector" configuration, but uses a mixed "inverted-power-barrel" and ""panel-mount barrel connector" dc-adapter build.
 
 ![](images/main-case-290-prepare-power-switch-and-dc-adapter-EN.png)
 
@@ -477,6 +579,9 @@ The reset header is not polarized so it can be installed either way.
 ![](images/main-case-480-insert-keyboard-EN.png)
 
 49. Connect the floppy power cable
+
+You will need the following parts:
+  * 1x 4-pin floppy power cable
 
 Attention must be paid to the orientation of the cable on the dc-adapter side as the pin header is not polarized.  
 If you look at the dc-adapter from the top, the floppy power cable should be inserted into the dc-adapter floppy power connector with the connector pins visible on the top.
